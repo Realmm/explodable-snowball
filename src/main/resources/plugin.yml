@@ -1,0 +1,4 @@
+main: me.james.Main
+description: 'Test plugin'
+version: 1.0.0
+name: 'Test-plugin'
