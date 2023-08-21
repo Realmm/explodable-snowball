@@ -20,6 +20,8 @@ Note:
 Build the plugin and put it into the `/plugins` directory on your server after running your server at least once to generate the files/folders for your server
 
 To build the plugin, run `mvn clean install` or just install the plugin in IntellijIDEA with the Maven module by clicking the `install` button, then 
-clicking the `green play arrow`, you will find your .jar to copy into the `/plugins` directory inside the `/target` directory
+clicking the `green play arrow`, you will find your .jar to copy into the `/plugins` directory inside the `/target` directory.
+
+You must build and copy paste your server jar into your plugins directory each time you update the plugin, then start and stop the server for changes to take place
 
 
